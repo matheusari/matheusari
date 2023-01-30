@@ -23,4 +23,7 @@
   <img align="center" alt="Math-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Math-Cemb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg">
   <img align="center" alt="Math-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  
+   ![Snake animation](https://github.com/matheusari/matheusari/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
