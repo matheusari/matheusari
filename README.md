@@ -26,6 +26,6 @@
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>VISITORS COUNT... 👀</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusari}/count.svg" /></p> 
 <br></div>
