@@ -28,9 +28,9 @@
 </div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![giphy](https://user-images.githubusercontent.com/114448911/215521216-06fd5fef-9b76-4d15-a790-076c11afcb74.gif)
-
+<div align="center">  
+<a![giphy](https://user-images.githubusercontent.com/114448911/215521216-06fd5fef-9b76-4d15-a790-076c11afcb74.gif)></a>
+</div>
 
 <div align="center">
 <br><p align="centre"><b>VISITORS COUNT... 👀</b></p>  
