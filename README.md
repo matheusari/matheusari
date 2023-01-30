@@ -26,7 +26,7 @@
 </div>
 
 <div align="center" valign="top"><br>
-![giphy](https://user-images.githubusercontent.com/114448911/215521216-06fd5fef-9b76-4d15-a790-076c11afcb74.gif)
+<img align="center" alt="Math-Java" height="30" width="40" src="[giphy](https://user-images.githubusercontent.com/114448911/215521216-06fd5fef-9b76-4d15-a790-076c11afcb74.gif)">!
 </div>
 
 <div align="center">
