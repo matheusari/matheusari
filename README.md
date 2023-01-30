@@ -1,4 +1,6 @@
-# Hello, world! 👋 🌎
+<div align="center">
+  <h1> Hello, world! 👋 🌎 </h1>
+</div>
 
 🇧🇷 - Eu sou o Matheus, estudante de Sistemas Embarcados pela FATEC Jundiaí e Desenvolvimento de Sistemas pelo SENAC. No entanto, não pense que meus estudos estão resumidos a isso. Não estão! Sou um eterno apaixonado por programação e todos os dias busco novos aprendizados. Tenho 20 anos e estou iniciando minha jornada na área da tecnologia agora. E aí, vai me acompanhar nessa? 
 
