@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/matheusari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Math-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -31,7 +31,7 @@
 
 ![giphy](https://user-images.githubusercontent.com/114448911/215521216-06fd5fef-9b76-4d15-a790-076c11afcb74.gif)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <div align="center">
 <br><p align="centre"><b>VISITORS COUNT... 👀</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusari}/count.svg" /></p> 
