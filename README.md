@@ -25,9 +25,7 @@
   <img align="center" alt="Math-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"> 
 </div>
 
-<div align="center" valign="top"><br>
-<img align="center" alt="Math-Java" height="30" width="40" src="[giphy](https://user-images.githubusercontent.com/114448911/215521216-06fd5fef-9b76-4d15-a790-076c11afcb74.gif)">!
-</div>
+[giphy](https://user-images.githubusercontent.com/114448911/215521216-06fd5fef-9b76-4d15-a790-076c11afcb74.gif)
 
 <div align="center">
 <br><p align="centre"><b>VISITORS COUNT... 👀</b></p>  
