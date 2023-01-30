@@ -36,7 +36,10 @@
    <img src="https://user-images.githubusercontent.com/114448911/215529826-1dfa0817-1e27-4459-9dbd-126f36bbfdff.gif" width="400px" height="220px">
 </div>
 
+
 <div align="center">
-<br><p align="centre"><b>VISITORS COUNT... 👀</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusari}/count.svg" /></p> 
-<br></div>
+  <br><p align="centre"><b>VISITORS COUNT... <img src="https://user-images.githubusercontent.com/114448911/215560210-32d77ec3-981a-4bc2-b93c-4e4920c13352.gif" height="15px" width="20"></b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusari}/count.svg" /></p> 
+  <br>
+</div>
+
