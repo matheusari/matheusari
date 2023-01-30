@@ -29,7 +29,10 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![giphy (1)](https://user-images.githubusercontent.com/114448911/215526269-d0ef8729-a28f-4c24-91ff-15cb957510bf.gif)
+
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/114448911/215529826-1dfa0817-1e27-4459-9dbd-126f36bbfdff.gif" width="600px" height="300px">
+</div>
 
 <div align="center">
 <br><p align="centre"><b>VISITORS COUNT... 👀</b></p>  
