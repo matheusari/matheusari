@@ -24,3 +24,8 @@
   <img align="center" alt="Math-Cemb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg">
   <img align="center" alt="Math-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"> 
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusari}/count.svg" /></p> 
+<br></div>
