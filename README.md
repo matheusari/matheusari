@@ -2,11 +2,9 @@
   <h1>Hello, world! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30"> </h1>
 </div>
 
-🇧🇷 - Eu sou o Matheus, estudante de Sistemas Embarcados pela FATEC Jundiaí e Desenvolvimento de Sistemas pelo SENAC. No entanto, não pense que meus estudos estão resumidos a isso. Não estão! Sou um eterno apaixonado por programação e todos os dias busco novos aprendizados. Tenho 20 anos e estou iniciando minha jornada na área da tecnologia agora. E aí, vai me acompanhar nessa? 
+🇧🇷 - Me chamo Matheus, tenho 21 anos e sou natural de Jundiaí/SP. No início de 2020, comecei a cursar Publicidade e Propaganda (dando ênfase a área criativa), devido minha grande afinidade com design gráfico. Sempre soube que a criação era uma das minhas paixões, no entanto, depois de um ano e meio no curso, decidi abandonar minha breve carreira em Publicidade para atuar em uma área que me possibilitaria unir o design a outra paixão: a tecnologia. Meus esforços foram direcionados ao desenvolvimento web, setor em que a combinação entre criatividade e habilidades técnicas são chaves para a criação de soluções incríveis!
 
-
-
-🇺🇸 - I'm Matheus, student of Embedded Systems at the Brazilian public university FATEC Jundiaí and Systems Development at the SENAC school. However, do not think that I only study this. Really no! I am an eternal passionate about programming and every day I look for new things to learn in the area. I am 20 years old and starting my career now. So, will you join me on this one?
+🇺🇸 - My name is Matheus, I'm 21 years old and I'm from Jundiaí/SP. In early 2020, I started to study Marketing (emphasizing the creative area), due to my great affinity with graphic design. I always knew that creation was one of my passions, however, after a year and a half on the course, I decided to abandon my brief career in Marketing to work in an area that would allow me to combine design with another passion: technology. My efforts were directed towards web development, a sector in which the combination of creativity and technical skills are key to creating incredible solutions!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
