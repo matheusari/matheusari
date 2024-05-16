@@ -1,18 +1,16 @@
 <div align="center">
-  <h1>Hello, world! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30"> </h1>
+  <h1>Olá, Mundo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30"> </h1>
 </div>
 
-🇧🇷 Técnico em Desenvolvimento de Sistemas, graduando em Sistemas Embarcados na FATEC Jundiaí e Análise e Desenvolvimento de Sistemas pela FIAP. Faço arte desde criança, e decidi juntar essa característica com minha afinidade pela tecnologia. Hoje, com 22 anos, estou me desenvolvendo como Full-Stack Designer, função que integra habilidades em UX, UI e Front-End Development.
+<div align="justify">Técnico em Desenvolvimento de Sistemas, graduando em Sistemas Embarcados na FATEC Jundiaí e Análise e Desenvolvimento de Sistemas na FIAP. Faço arte desde criança, e decidi juntar essa característica com minha afinidade pela tecnologia. Hoje, com 22 anos, estou me desenvolvendo como Full-Stack Designer, função que integra habilidades em UX, UI e Front-End Development.</div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center"> 
-  <a href="https://instagram.com/matheusarii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@matheusari.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheusari" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.behance.net/matheusari" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
     <a href="https://wa.me/5511975420249" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
-      <a href="https://tiktok.com/@matheusarii" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a> 
 </div>
 
 <div align="center" valign="top"><br>
