@@ -1,8 +1,10 @@
 <div align="center">
-  <h1>Olá, Mundo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30"> </h1>
+  <h1>Hello, World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30"> </h1>
 </div>
 
-<div align="justify">Técnico em Desenvolvimento de Sistemas, graduando em Sistemas Embarcados na FATEC Jundiaí e Análise e Desenvolvimento de Sistemas na FIAP. Faço arte desde criança, e decidi juntar essa característica com minha afinidade pela tecnologia. Hoje, com 22 anos, estou me desenvolvendo como Full-Stack Designer, função que integra habilidades em UX, UI e Front-End Development.</div>
+<div align="justify">[PT]<strong> Técnico em Desenvolvimento de Sistemas, graduando em Análise e Desenvolvimento de Sistemas na FIAP e Sistemas Embarcados pela FATEC Jundiaí. Faço arte desde criança, e decidi juntar essa característica com minha afinidade pela tecnologia. Hoje, estou me desenvolvendo como Full-Stack Designer, função que integra habilidades em UX, UI e Front-End Development </strong>
+<br><br>
+[EN]<em> Systems Development associate degree, graduating in Information Technology from FIAP and Embedded Systems from FATEC Jundiaí. I've been making art since I was a child and decided to combine this characteristic with my interest in technology. Today I am developing myself as a Full-Stack Designer, a role that integrates skills in UX, UI and Front-End Development.</em></div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
