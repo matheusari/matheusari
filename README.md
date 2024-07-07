@@ -6,40 +6,25 @@
 <br><br>
 [EN]<em> Systems Development associate degree, graduating in Information Technology from FIAP and Embedded Systems from FATEC Jundiaí. I've been making art since I was a child and decided to combine this characteristic with my interest in technology. Today I am developing myself as a Full-Stack Designer, a role that integrates skills in UX, UI and Front-End Development.</em></div>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 
-<div align="center"> 
-  <a href = "mailto:contato@matheusari.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheusari" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.behance.net/matheusari" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-    <a href="https://wa.me/5511975420249" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
-</div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="Math-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   <img align="center" alt="Math-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Math-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Math-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="Math-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Math-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Math-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Math-Cemb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg">
-  <img align="center" alt="Math-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-    <img align="center" alt="Math-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img align="center" alt="Math-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Skills" src="https://github.com/matheusari/matheusari/assets/114448911/2d80293e-15bb-462e-9d87-35245559b4bd">
 </div>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 
-
-<div align="center">
-   <img src="https://user-images.githubusercontent.com/114448911/215529826-1dfa0817-1e27-4459-9dbd-126f36bbfdff.gif">
+<div align="center" valign="top"><br>
+  <img align="center" alt="Ilustração de PC animado" height="150px" src="https://github.com/matheusari/matheusari/assets/114448911/c2996af5-4c17-44c8-aee9-3623b737ba87">
 </div>
 
+<br>
 
-<div align="center">
-  <br><p align="centre"><b>VISITORS COUNT... <img src="https://user-images.githubusercontent.com/114448911/215560210-32d77ec3-981a-4bc2-b93c-4e4920c13352.gif" height="15px" width="20"></b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusari}/count.svg" /></p> 
-  <br>
+<div align="center"> 
+  <a href = "mailto:contato@matheusari.com"><img src="https://github.com/matheusari/matheusari/assets/114448911/675b663d-062a-45b2-b64d-6240b938b236" target="_blank" height="45px"></a>
+  <a href="https://www.linkedin.com/in/matheusari" target="_blank"><img src="https://github.com/matheusari/matheusari/assets/114448911/ee17e089-ccbc-40cb-8fa5-07bb73e4c6ac" target="_blank" height="45px"></a> 
+  <a href="https://www.behance.net/matheusari" target="_blank"><img src="https://github.com/matheusari/matheusari/assets/114448911/396fc5e6-d1e2-420c-a1f0-c67d3c25cbe3" target="_blank" height="45px"></a>
+    <a href="https://wa.me/5511975420249" target="_blank"><img src="https://github.com/matheusari/matheusari/assets/114448911/7ffbc33f-cd38-4b8d-892c-e62e8b9371f4" target="_blank" height="45px"></a>
 </div>
 
