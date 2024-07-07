@@ -12,7 +12,7 @@
   <a href="https://www.behance.net/matheusari" target="_blank"><img src="https://github.com/matheusari/matheusari.com/assets/114448911/d76a975c-c1ba-42ae-82c7-dc463034c75e" target="_blank" height="40"></a>
     <a href="https://www.linkedin.com/in/matheusari" target="_blank"><img src="https://github.com/matheusari/matheusari.com/assets/114448911/3c8b32bf-da7b-46e7-97ad-2cc1cc0b2640" target="_blank" height="40"></a>
     <a href = "mailto:contato@matheusari.com"><img src="https://github.com/matheusari/matheusari.com/assets/114448911/4794ecc5-63ec-4dcb-98f7-9765afc16a60" target="_blank" height="40"></a>
-    <a href="https://wa.me/5511975420249" target="_blank"><img src="https://github.com/matheusari/matheusari.com/assets/114448911/0af3bfd8-a648-4e47-8962-16d57d5f031d)" target="_blank" height="40"></a>
+    <a href="https://wa.me/5511975420249" target="_blank"><img src="https://github.com/matheusari/matheusari.com/assets/114448911/0af3bfd8-a648-4e47-8962-16d57d5f031d" target="_blank" height="40"></a>
 </div>
 
 <h2 align="left">Habilidades Técnicas | <em>Hard Skills</em></h3>
