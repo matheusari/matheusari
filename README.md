@@ -16,7 +16,7 @@
 <br>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="Ilustração de PC animado" height="150px" src="https://github.com/matheusari/matheusari/assets/114448911/c2996af5-4c17-44c8-aee9-3623b737ba87">
+  <img align="center" alt="Ilustração de PC animado" height="130px" src="https://github.com/matheusari/matheusari/assets/114448911/c2996af5-4c17-44c8-aee9-3623b737ba87">
 </div>
 
 <br>
