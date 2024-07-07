@@ -9,10 +9,10 @@
 <br>
 
 <div align="center"> 
-  <a href = "mailto:contato@matheusari.com"><img src="https://github.com/matheusari/matheusari/assets/114448911/6961c438-c0ac-4ba1-ae99-e9ad9babda39" target="_blank" height="60px"></a>
-  <a href="https://www.linkedin.com/in/matheusari" target="_blank"><img src="https://github.com/matheusari/matheusari/assets/114448911/f973729a-937b-4907-9ea1-8d1879850d5b" target="_blank" height="60px"></a> 
-  <a href="https://www.behance.net/matheusari" target="_blank"><img src="https://github.com/matheusari/matheusari/assets/114448911/09b65d0d-2b07-4720-8165-874a3ed94f4b" target="_blank" height="60px"></a>
-    <a href="https://wa.me/5511975420249" target="_blank"><img src="https://github.com/matheusari/matheusari/assets/114448911/1a7c1b41-c1c2-4af2-8077-0fcfdd7ef7f5" target="_blank" height="60px"></a>
+  <a href = "mailto:contato@matheusari.com"><img src="https://github.com/matheusari/matheusari/assets/114448911/c0f44563-ffee-4915-885a-34d4f4cc8da9" target="_blank" height="55px"></a>
+  <a href="https://www.linkedin.com/in/matheusari" target="_blank"><img src="https://github.com/matheusari/matheusari/assets/114448911/0adc859f-bfbf-4f5f-9d87-0c96bc864085" target="_blank" height="55px"></a> 
+  <a href="https://www.behance.net/matheusari" target="_blank"><img src="https://github.com/matheusari/matheusari/assets/114448911/a9237bb5-e9df-42bb-8178-b499e39d9a11" target="_blank" height="55px"></a>
+    <a href="https://wa.me/5511975420249" target="_blank"><img src="https://github.com/matheusari/matheusari/assets/114448911/17e664e0-6c0f-4fa8-b2f4-b31f87698de5" target="_blank" height="55px"></a>
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
