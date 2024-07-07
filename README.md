@@ -9,10 +9,10 @@
 <br>
 
 <div align="center"> 
-  <a href = "mailto:contato@matheusari.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheusari" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.behance.net/matheusari" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-    <a href="https://wa.me/5511975420249" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@matheusari.com"><img src="https://github.com/matheusari/matheusari/assets/114448911/6961c438-c0ac-4ba1-ae99-e9ad9babda39" target="_blank" height="60px"></a>
+  <a href="https://www.linkedin.com/in/matheusari" target="_blank"><img src="https://github.com/matheusari/matheusari/assets/114448911/f973729a-937b-4907-9ea1-8d1879850d5b" target="_blank" height="60px"></a> 
+  <a href="https://www.behance.net/matheusari" target="_blank"><img src="https://github.com/matheusari/matheusari/assets/114448911/09b65d0d-2b07-4720-8165-874a3ed94f4b" target="_blank" height="60px"></a>
+    <a href="https://wa.me/5511975420249" target="_blank"><img src="https://github.com/matheusari/matheusari/assets/114448911/1a7c1b41-c1c2-4af2-8077-0fcfdd7ef7f5" target="_blank" height="60px"></a>
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
