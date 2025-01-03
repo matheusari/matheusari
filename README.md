@@ -2,9 +2,9 @@
   <h1>Hello, World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30"> </h1>
 </div>
 
-<div align="justify">[PT]<strong> Técnico em Desenvolvimento de Sistemas, graduando em Análise e Desenvolvimento de Sistemas na FIAP e Sistemas Embarcados pela FATEC Jundiaí. Faço arte desde criança, e decidi juntar essa característica com minha afinidade pela tecnologia. Hoje, estou me desenvolvendo como Full-Stack Designer, função que integra habilidades em UX, UI e Front-End Development </strong>
+<div align="justify">[PT]<strong> Faço arte desde criança, e hoje ela se encontra com a tecnologia nas minhas duas áreas de atuação: Design Gráfico e Desenvolvimento Web. Sou técnico em Desenvolvimento de Sistemas e atualmente estou cursando Design Gráfico e Análise e Desenvolvimento de Sistemas. Há mais de três anos, trabalho como freelancer, unindo criatividade e técnica para oferecer serviços como desenvolvimento de sites, criação de identidades visuais, edição de imagens e muito mais.</strong>
 <br><br>
-[EN]<em> Systems Development associate degree, graduating in Information Technology from FIAP and Embedded Systems from FATEC Jundiaí. I've been making art since I was a child and decided to combine this characteristic with my interest in technology. Today I am developing myself as a Full-Stack Designer, a role that integrates skills in UX, UI and Front-End Development.</em></div>
+[EN]<em> I have been creating art since I was a child, and today it intersects with technology in my two fields of expertise: Graphic Design and Web Development. I am a Systems Development Technician, currently pursuing degrees in Graphic Design and Systems Analysis and Development. For over three years, I have been working as a freelancer, combining creativity and technical skills to provide services such as website development, visual identity creation, image editing, and much more.</em></div>
 
 <br>
 
